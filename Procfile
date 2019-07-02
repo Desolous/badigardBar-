@@ -1,1 +1,1 @@
-worker: python3 Badigard Barış.py
+worker: python3 BadigardBarış.py
