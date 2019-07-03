@@ -27,4 +27,4 @@ async def on_member_remove(member):
     await channel.send(member.mention + " Hop Hemşerim Nereye ?")
 
 
-bot.run("NTk1NjQ1NTE3NDQ3NTYxMjQ1.XRuBIw.BqoUn3B6ASXSGqqExnWuQ1Uea1Q") 
+bot.run("NTk2MDAxNzcxMjA2MjEzNjMz.XRzMNA.6fI7B5gtUPWun1IBugfJDnze4s0") 
